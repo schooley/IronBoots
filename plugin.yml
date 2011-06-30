@@ -1,0 +1,6 @@
+name: IronBoots
+main: me.schooley.ironboots.IronBoots
+version: 0.3
+description: A plugin that enables customizable options for floating and sinking.
+author: Joey Schooley
+depend: [BukkitContrib]
